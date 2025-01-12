@@ -1,6 +1,6 @@
 # Overview
 
-I'm exploring the possibility of life existing in more worlds than one, or at least that there as many worlds to greet.
+I'm exploring the possibility of life existing in more worlds than one, or at least that there may be other worlds to greet.
 
 Prints "Hello Worlds!" to the terminal.
 

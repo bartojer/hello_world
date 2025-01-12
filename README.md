@@ -15,6 +15,5 @@ Written in Python 3.12.7
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [learn python .org](https://www.learnpython.org/en/Hello,_World!)
 * [YouTube](https://youtu.be/dQw4w9WgXcQ)
